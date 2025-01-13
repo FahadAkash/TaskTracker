@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\TaskTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE6A7AB-C7A1-4D91-8579-CBC6BA7AB5CF}|TaskTracker.csproj|e:\\coding projects\\backend dev\\c#\\backend development\\tasktracker\\service\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE6A7AB-C7A1-4D91-8579-CBC6BA7AB5CF}|TaskTracker.csproj|solutionrelative:service\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE6A7AB-C7A1-4D91-8579-CBC6BA7AB5CF}|TaskTracker.csproj|e:\\coding projects\\backend dev\\c#\\backend development\\tasktracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE6A7AB-C7A1-4D91-8579-CBC6BA7AB5CF}|TaskTracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE6A7AB-C7A1-4D91-8579-CBC6BA7AB5CF}|TaskTracker.csproj|e:\\coding projects\\backend dev\\c#\\backend development\\tasktracker\\controller\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE6A7AB-C7A1-4D91-8579-CBC6BA7AB5CF}|TaskTracker.csproj|solutionrelative:controller\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE6A7AB-C7A1-4D91-8579-CBC6BA7AB5CF}|TaskTracker.csproj|e:\\coding projects\\backend dev\\c#\\backend development\\tasktracker\\data\\taskreposetory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE6A7AB-C7A1-4D91-8579-CBC6BA7AB5CF}|TaskTracker.csproj|solutionrelative:data\\taskreposetory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE6A7AB-C7A1-4D91-8579-CBC6BA7AB5CF}|TaskTracker.csproj|e:\\coding projects\\backend dev\\c#\\backend development\\tasktracker\\model\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE6A7AB-C7A1-4D91-8579-CBC6BA7AB5CF}|TaskTracker.csproj|solutionrelative:model\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE6A7AB-C7A1-4D91-8579-CBC6BA7AB5CF}|TaskTracker.csproj|e:\\coding projects\\backend dev\\c#\\backend development\\tasktracker\\tasktracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3CE6A7AB-C7A1-4D91-8579-CBC6BA7AB5CF}|TaskTracker.csproj|solutionrelative:tasktracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\TaskTracker\\Controller\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controller\\TaskController.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\TaskTracker\\Controller\\TaskController.cs",
+              "RelativeToolTip": "Controller\\TaskController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:01:07.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskReposetory.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\TaskTracker\\Data\\TaskReposetory.cs",
+              "RelativeDocumentMoniker": "Data\\TaskReposetory.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\TaskTracker\\Data\\TaskReposetory.cs",
+              "RelativeToolTip": "Data\\TaskReposetory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:09:18.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\TaskTracker\\Service\\TaskService.cs",
+              "RelativeDocumentMoniker": "Service\\TaskService.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\TaskTracker\\Service\\TaskService.cs",
+              "RelativeToolTip": "Service\\TaskService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:08:38.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\TaskTracker\\Model\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Model\\TaskItem.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\TaskTracker\\Model\\TaskItem.cs",
+              "RelativeToolTip": "Model\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:00:56.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskTracker.csproj",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\TaskTracker\\TaskTracker.csproj",
+              "RelativeDocumentMoniker": "TaskTracker.csproj",
+              "ToolTip": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\TaskTracker\\TaskTracker.csproj",
+              "RelativeToolTip": "TaskTracker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-11T16:57:15.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\TaskTracker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\CODING PROJECTS\\Backend Dev\\C#\\Backend DEvelopment\\TaskTracker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T16:56:09.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
