@@ -16,10 +16,9 @@ Task Tracker is a simple command line interface (CLI) application designed to he
 ## Getting Started
 
 To get started with Task Tracker, follow these steps:
-
-1. **Clone the repository:**
-
+ 
 ```bash
+ **Clone the repository:**
 git clone https://github.com/yourusername/task-tracker.git
 cd task-tracker
 
@@ -55,4 +54,5 @@ List tasks that are not done:
 dotnet run list-not-done
 List tasks that are in progress:
 dotnet run list-in-progress
+```
 
